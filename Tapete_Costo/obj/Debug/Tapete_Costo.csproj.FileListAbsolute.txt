@@ -1,0 +1,8 @@
+C:\Users\alxax\OneDrive\Documentos\SharpDevelop Projects\Tapete_Costo\Tapete_Costo\obj\Debug\Tapete_Costo.csprojResolveAssemblyReference.cache
+C:\Users\alxax\OneDrive\Documentos\SharpDevelop Projects\Tapete_Costo\Tapete_Costo\obj\Debug\Tapete_Costo.MainForm.resources
+C:\Users\alxax\OneDrive\Documentos\SharpDevelop Projects\Tapete_Costo\Tapete_Costo\obj\Debug\Tapete_Costo.csproj.GenerateResource.Cache
+C:\Users\alxax\OneDrive\Documentos\SharpDevelop Projects\Tapete_Costo\Tapete_Costo\bin\Debug\Tapete_Costo.exe.config
+C:\Users\alxax\OneDrive\Documentos\SharpDevelop Projects\Tapete_Costo\Tapete_Costo\bin\Debug\Tapete_Costo.exe
+C:\Users\alxax\OneDrive\Documentos\SharpDevelop Projects\Tapete_Costo\Tapete_Costo\bin\Debug\Tapete_Costo.pdb
+C:\Users\alxax\OneDrive\Documentos\SharpDevelop Projects\Tapete_Costo\Tapete_Costo\obj\Debug\Tapete_Costo.exe
+C:\Users\alxax\OneDrive\Documentos\SharpDevelop Projects\Tapete_Costo\Tapete_Costo\obj\Debug\Tapete_Costo.pdb
